@@ -8,37 +8,40 @@ Data Science Professional | Machine Learning | Deep Learning
 ## Education
 - Executive Post Graduate Programme in Data Science - IIIT-Bangalore (July 2022 - August 2023)
 - Bachelor of Business Administration (BBA) - Vysya College, Salem (July 2019 - April 2021)
+  
 ## Projects
 ### [Brain Tumor Detection:](https://github.com/giri2021/-Brain-tumor-dection-MRI-image-using-CNN.git)
-![](https://github.com/giri2021/giri-kumar/blob/main/web%20image/Brain%20tumor%20dection.png)
+![](https://github.com/giri2021/giri-kumar/blob/main/web%20image/Brain%20tumor%20dection.jpeg)
 - Developed a CNN model to detect brain tumors with 98% accuracy.
 - Utilized deep learning architectures such as ResNet and VGGNet.
 - Performed image preprocessing and augmentation for improved detection.
 - Validated the model using real-world medical imaging datasets.
 ### [Bike Sharing Demand Analysis:](https://github.com/giri2021/Bike-Sharing-Demand-Analysis-.git)
-![](https://github.com/giri2021/giri-kumar/blob/main/web%20image/Bike%20sharing%20prediction.png)
+![]()
 - Analyzed bike usage trends using linear regression models.
 - Explored the impact of weather conditions and time variables.
 - Developed a demand prediction model for bike-sharing services.
 - Recommended data-driven strategies for fleet management.
 ### [House Price Prediction:](https://github.com/giri2021/Housing.git)
-![](https://github.com/giri2021/giri-kumar/blob/main/web%20image/House%20price%20prediction.png)
+![]()
 - Analyzed bike usage trends using linear regression models.
 - Explored the impact of weather conditions and time variables.
 - Developed a demand prediction model for bike-sharing services.
 - Recommended data-driven strategies for fleet management.
 ### [Telecom Churn Prediction:](https://github.com/giri2021/Telecom-Churn.git)
-![](https://github.com/giri2021/giri-kumar/blob/main/web%20image/Telecom%20churn%20prediction.png)
+![]()
 - Developed a machine learning model to predict customer churn in the telecom industry.
 - Preprocessed customer data, including demographics, usage patterns, and service history.
 - Applied logistic regression, random forest, and XGBoost to improve predictive accuracy.
 - Achieved a model accuracy of 92%, providing actionable insights for customer retention strategies.
+  
 ## Skills
 - Git, GitHub
 - Python, R, SQL
 - Machine Learning & Deep Learning
 - Data Visualization: Power BI, Tableau, Matplotlib, Seaborn
 - Database Management: MySQL
+  
 ## Contact
 - Email: [girikumar92000@gmail.com](https://mail.google.com/mail/u/0/#inbox)
 - LinkedIn: [linkedin.com/in/giri-kumar](https://www.linkedin.com/in/giri-kumar/)
