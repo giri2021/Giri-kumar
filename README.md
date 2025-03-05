@@ -23,7 +23,7 @@ Data Science Professional | Machine Learning | Deep Learning
 - Developed a demand prediction model for bike-sharing services.
 - Recommended data-driven strategies for fleet management.
 ### [House Price Prediction:](https://github.com/giri2021/Housing.git)
-![]()
+![](https://github.com/giri2021/giri-kumar/blob/main/web%20image/house%20price%20predictiom.jpeg)
 - Analyzed bike usage trends using linear regression models.
 - Explored the impact of weather conditions and time variables.
 - Developed a demand prediction model for bike-sharing services.
