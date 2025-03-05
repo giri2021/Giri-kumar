@@ -22,13 +22,13 @@ Data Science Professional | Machine Learning | Deep Learning
 - Developed a demand prediction model for bike-sharing services.
 - Recommended data-driven strategies for fleet management.
 ### [House Price Prediction:](https://github.com/giri2021/Housing.git)
-![](https://github.com/giri2021/Giri_kumar.github.io/blob/main/web%20image/House%20price%20prediction.png)
+![](https://github.com/giri2021/giri-kumar/blob/main/web%20image/House%20price%20prediction.png)
 - Analyzed bike usage trends using linear regression models.
 - Explored the impact of weather conditions and time variables.
 - Developed a demand prediction model for bike-sharing services.
 - Recommended data-driven strategies for fleet management.
 ### [Telecom Churn Prediction:](https://github.com/giri2021/Telecom-Churn.git)
-![](https://github.com/giri2021/Giri_kumar.github.io/blob/main/web%20image/Telecom%20churn%20prediction.png)
+![]()
 - Developed a machine learning model to predict customer churn in the telecom industry.
 - Preprocessed customer data, including demographics, usage patterns, and service history.
 - Applied logistic regression, random forest, and XGBoost to improve predictive accuracy.
