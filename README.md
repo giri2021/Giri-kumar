@@ -10,7 +10,7 @@ Data Science Professional | Machine Learning | Deep Learning
 - Bachelor of Business Administration (BBA) - Vysya College, Salem (July 2019 - April 2021)
 ## Projects
 ### [Brain Tumor Detection:](https://github.com/giri2021/-Brain-tumor-dection-MRI-image-using-CNN.git)
-![](https://github.com/giri2021/Giri_kumar.github.io/blob/main/web%20image/Brain%20tumor%20dection.png)
+![](https://github.com/giri2021/giri-kumar/blob/main/web%20image/Brain%20tumor%20dection.png)
 - Developed a CNN model to detect brain tumors with 98% accuracy.
 - Utilized deep learning architectures such as ResNet and VGGNet.
 - Performed image preprocessing and augmentation for improved detection.
