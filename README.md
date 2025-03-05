@@ -17,7 +17,7 @@ Data Science Professional | Machine Learning | Deep Learning
 - Performed image preprocessing and augmentation for improved detection.
 - Validated the model using real-world medical imaging datasets.
 ### [Bike Sharing Demand Analysis:](https://github.com/giri2021/Bike-Sharing-Demand-Analysis-.git)
-![]()
+![](https://github.com/giri2021/giri-kumar/blob/main/web%20image/bike%20sharing.jpeg)
 - Analyzed bike usage trends using linear regression models.
 - Explored the impact of weather conditions and time variables.
 - Developed a demand prediction model for bike-sharing services.
